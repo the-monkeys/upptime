@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1921,
+    "time": 1914,
     "timeDay": 933,
     "timeWeek": 1852,
     "timeMonth": 3697,
-    "timeYear": 1921,
+    "timeYear": 1914,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://monkeys.support/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/monkeys.support.ico",
     "slug": "the-monkeys-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 806,
-    "timeWeek": 936,
-    "timeMonth": 1592,
-    "timeYear": 1147,
+    "time": 1154,
+    "timeDay": 1403,
+    "timeWeek": 1069,
+    "timeMonth": 1604,
+    "timeYear": 1154,
     "dailyMinutesDown": {}
   }
 ]
