@@ -22,17 +22,17 @@
     "url": "https://monkeys.support/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/monkeys.support.ico",
     "slug": "the-monkeys-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 992,
-    "timeWeek": 899,
-    "timeMonth": 1091,
-    "timeYear": 1135,
+    "time": 1147,
+    "timeDay": 2018,
+    "timeWeek": 1167,
+    "timeMonth": 1147,
+    "timeYear": 1147,
     "dailyMinutesDown": {}
   }
 ]
