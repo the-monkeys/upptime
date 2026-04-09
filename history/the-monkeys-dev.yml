@@ -1,7 +1,7 @@
 url: https://dev.monkeys.support/healthz
-status: down
-code: 502
-responseTime: 4046
-lastUpdated: 2026-04-08T23:35:27.224Z
+status: up
+code: 200
+responseTime: 785
+lastUpdated: 2026-04-09T15:54:15.882Z
 startTime: 2025-11-03T14:48:43.928Z
 generator: Upptime <https://github.com/upptime/upptime>
