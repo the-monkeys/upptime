@@ -4,17 +4,17 @@
     "url": "https://dev.monkeys.support/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/dev.monkeys.support.ico",
     "slug": "the-monkeys-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1998,
-    "timeDay": 4046,
-    "timeWeek": 2892,
-    "timeMonth": 2134,
-    "timeYear": 1998,
+    "time": 1991,
+    "timeDay": 2416,
+    "timeWeek": 2541,
+    "timeMonth": 2084,
+    "timeYear": 1991,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 1235,
     "timeDay": 938,
     "timeWeek": 3019,
-    "timeMonth": 1549,
+    "timeMonth": 1566,
     "timeYear": 1235,
     "dailyMinutesDown": {}
   }
